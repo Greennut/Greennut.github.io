@@ -1,3 +1,3 @@
-source 'https://github.com/Greennut/Greennut.github.io'
+source 'https://rubygems.org'
 gem 'github-pages'
 
